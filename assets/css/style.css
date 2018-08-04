@@ -36,7 +36,8 @@
   
 
   #about-me{
-      position: relative;
+      margin-top:20px;
+      margin-bottom:25px;
       left: 0;
       top: 0;
       padding-top: 0;
@@ -44,10 +45,10 @@
       color: #4aaaa5;
       background: #ffffff;
       width: 250px;
-      height: 90px;
+      height: 70px;
       font-family: 'Georgia', 'Times New Roman', Times, serif;
-      font-size: 24px;
-      font-style: bold;
+      font-size: 28px;
+      font-weight: bold;
   }
 
   #about-content{
@@ -83,10 +84,10 @@ img{
     color: #ffffff;
     background: #4aaaa5;
     width:250px;
-    height:90px;
+    height:80px;
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 24px;
-    font-style: bold;
+    font-weight: bold;
     top: 0;
   }
   
@@ -124,6 +125,7 @@ img{
 
 
   #contact{
+      top:20px;
       left:100px;
       width:490px;
       height:310px;
